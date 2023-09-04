@@ -6,4 +6,4 @@ test.o: test.cpp
 
 .PHONY : clean
 clean:
-	del *.o test.exe -rf
+	rm *.o test.exe -rf

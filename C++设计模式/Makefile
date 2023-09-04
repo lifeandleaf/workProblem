@@ -1,4 +1,4 @@
-SRC:=AbstractFactory.cpp
+SRC:=Observer.cpp
 
 a: c.o
 	g++ c.o -o a
